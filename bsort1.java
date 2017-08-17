@@ -11,8 +11,14 @@ public class bsort1 {
 	 {
 		 int min = number[i];
 		 int max = number[i];
-		 max=min;
+		 if(number[i]=number[i+1])
+		 {
+		 min-number[i];
+		 max=number[i+1];
 		  }
+      System.out.println(number[i]);
+	 }
+	 
  }
 	}
 
